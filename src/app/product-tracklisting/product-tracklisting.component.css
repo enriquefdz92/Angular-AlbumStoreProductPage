@@ -3,7 +3,7 @@
   padding-top: 10px;
 }
 ul{
-  list-style-type: note;
+  list-style-type: none;
 }
 li{
   display: block;
